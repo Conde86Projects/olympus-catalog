@@ -1,0 +1,15 @@
+{
+  "page": 1,
+  "pages": 1,
+  "items": [
+    {
+      "id": "mux-smoke",
+      "title": "Teste HLS — Mux x36xhzz",
+      "description": "Stream público de demonstração usado só para testes técnicos de HLS do player Olympus.",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "duration": 634,
+      "thumbnail": null,
+      "qualities": []
+    }
+  ]
+}
