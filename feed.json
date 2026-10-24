@@ -6,7 +6,7 @@
       "id": "big-buck-bunny",
       "title": "Big Buck Bunny",
       "description": "Open Movie da Blender Foundation (2008), licença CC-BY 3.0.",
-      "url": "https://conde86projects.github.io/olympus-catalog/media/big-buck-bunny.mp4",
+      "url": "https://conde86projects.github.io/olympus-catalog/media/hls/big-buck-bunny/master.m3u8",
       "thumbnail": "https://conde86projects.github.io/olympus-catalog/images/big-buck-bunny.jpg",
       "duration": 596,
       "qualities": []
